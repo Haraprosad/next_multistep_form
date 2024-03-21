@@ -21,6 +21,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/_components/FormTwo.tsx", "src/app/_components/ImageUploadField.jsx", "src/app/_components/CountrySelectField.tsx"],
   "exclude": ["node_modules"]
 }
